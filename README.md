@@ -11,7 +11,7 @@ Flight Bot uses natural language processing and machine learning to provide flig
 ## 🌐 Deployed on
 
 <a href="https://michellejslei.github.io/chathacks_travelbot/">
-<img src="https://user-images.githubusercontent.com/89456541/235354502-fbac768e-a7dc-47d1-aa22-032aa75440f1.png" width="50%">
+<img src="https://user-images.githubusercontent.com/89456541/235354502-fbac768e-a7dc-47d1-aa22-032aa75440f1.png" width="30%">
 </a>
 
 ## 🎥 Demo video
